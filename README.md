@@ -1,3 +1,3 @@
 This is the source code for my nintendo hireme.c writeup.
 
-For explanataions, please read he full [writeup](https://saardr.github.io/challenge-writeups/writeup/).
+If you want full explanataions for the code and challenge solution, please consult the full [writeup](https://saardr.github.io/crypto/keygen/writeup/).
